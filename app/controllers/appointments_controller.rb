@@ -12,7 +12,7 @@ class AppointmentsController < ApplicationController
   def update
     appointment = Appointment.find(params[:id])
     appointment.update_attributes(appointment_param)
-    render json: todo
+    render json: appointment
   end
 
   def destroy
