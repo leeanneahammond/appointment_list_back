@@ -2,8 +2,8 @@
 # README
 
 # Technologies Used </br>
-Rails API w/JSON
-gem 'rack/cors'
+Rails API w/JSON </br>
+gem 'rack/cors' </br>
 gem 'pg'
 
 rails new appointment-api
