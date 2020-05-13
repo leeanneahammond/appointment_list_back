@@ -1,7 +1,7 @@
 
 # README
 
-# Technologies Used
+# Technologies Used </br>
 Rails API w/JSON
 gem 'rack/cors'
 gem 'pg'
